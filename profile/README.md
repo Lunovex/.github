@@ -48,5 +48,8 @@ Blockify is a feature-rich and uniquely designed alternative to Blockman Go. We 
 
 ---
 
-Feel free to connect with us or contribute to our projects. Let's build something amazing together!
+## Feel free to connect with us: 
 
+Discord Server: https://discord.gg/3vzjmZmMQ9
+
+Email: undefined@lunovex.tech
