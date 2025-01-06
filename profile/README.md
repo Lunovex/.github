@@ -34,7 +34,7 @@ Welcome to Lunovex! We are a dynamic and creative team dedicated to developing i
         <a href="https://github.com/TailOfDarkness">
             <img src="https://avatars.githubusercontent.com/u/149388715?s=96&v=4" width="90;" alt="undefined"/>
             <br />
-            <sub><b>Arden13</b></sub>
+            <sub><b>TailOfDarkness</b></sub>
         </a>
     </td>
 </tr>
