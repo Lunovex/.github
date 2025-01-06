@@ -10,7 +10,7 @@ Welcome to Lunovex! We are a dynamic and creative team dedicated to developing i
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/undefined">
+        <a href="https://github.com/getvague">
             <img src="https://avatars.githubusercontent.com/u/193249175?s=96&v=4" width="90;" alt="undefined"/>
             <br />
             <sub><b>undefined</b></sub>
@@ -21,6 +21,20 @@ Welcome to Lunovex! We are a dynamic and creative team dedicated to developing i
             <img src="https://avatars.githubusercontent.com/u/193148186?s=96&v=4" width="90;" alt="asen1-dev"/>
             <br />
             <sub><b>asen1-dev</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/GreenBMGO">
+            <img src="https://avatars.githubusercontent.com/u/100223486?s=96&v=4" width="90;" alt="undefined"/>
+            <br />
+            <sub><b>GreenBMGO</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/TailOfDarkness">
+            <img src="https://avatars.githubusercontent.com/u/149388715?s=96&v=4" width="90;" alt="undefined"/>
+            <br />
+            <sub><b>Arden13</b></sub>
         </a>
     </td>
 </tr>
