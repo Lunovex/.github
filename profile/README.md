@@ -1,4 +1,4 @@
-![lunovex_logo](https://github.com/Lunovex/.github/blob/main/bitmap.png?raw=true)
+![1000002458](https://github.com/user-attachments/assets/fe05f52f-1d90-4daf-afb6-c60d416b3570)
 
 # Lunovex
 
