@@ -24,13 +24,6 @@ Welcome to Lunovex! We are a dynamic and creative team dedicated to developing i
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/GreenBMGO">
-            <img src="https://avatars.githubusercontent.com/u/100223486?s=96&v=4" width="90;" alt="undefined"/>
-            <br />
-            <sub><b>GreenBMGO</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/TailOfDarkness">
             <img src="https://avatars.githubusercontent.com/u/149388715?s=96&v=4" width="90;" alt="undefined"/>
             <br />
